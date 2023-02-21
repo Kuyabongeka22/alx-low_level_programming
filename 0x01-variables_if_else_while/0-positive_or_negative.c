@@ -2,7 +2,8 @@
 #include <time.h>
 #include <stdio.h>
 
-/**main - execute the program
+/**
+ *main - execute the program
  *Return: always 0 (success)
  */
 int main(void)
