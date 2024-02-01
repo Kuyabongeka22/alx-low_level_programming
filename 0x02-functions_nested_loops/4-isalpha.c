@@ -6,10 +6,9 @@
  *    *Return: 1 if char is lowercase, otherwise 0.
  *     */
 
-int _isalpha(int c):
+int _isalpha(int c)
 {
-	char c;
-	if (c >= 97 && c <= 122)
+if ((c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z'))
 	{
 
 		return (1);
