@@ -1,5 +1,5 @@
 #include "main.h"
-#include <main.h>
+#include <stdio.h>
 /**
  * computes the absolute value of an integer.
  * @x to be checked
