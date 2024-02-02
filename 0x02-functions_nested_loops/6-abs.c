@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- * computes the absolute value of an integer.
- * @x to be checked
- * return
+ * _abs- computes the absolute value of an integer.
+ * @x: parameter to be checked
+ * Return: return x or -x
  */
 
 int _abs(int x)
