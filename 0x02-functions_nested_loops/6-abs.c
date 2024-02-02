@@ -6,9 +6,10 @@
  * return
  */
 
-int _abs(int)
+int _abs(int x)
 {
-	int x;
-	abs(x);
-	return;
+if (x > 0)
+	return (x);
+else
+	return (-x);
 }
