@@ -2,12 +2,16 @@
 
 /**
  * add- add 2 intergers
- * @x,y: numbers to be added
+ * @x: number to be added
+ * @y: number to be added
  * Return: results
  */
 
 int add(int x, int y)
 {
+	int x;
+	int y;
+
 	results = x + y;
 	return (results);
 }
